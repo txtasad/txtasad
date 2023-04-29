@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @txtasad, Mobile Solutions Architect and a Full Stack Developer.
-- 👀 Engineer, Traveler and Biker.
+- 👋 Hi, I’m @txtasad, Mobile Solutions Architect and Expert Full Stack Mobile Developer.
+- 👀 Engineer, Traveler and Digital Healthcare Proponent
 - 🌱 B.Tech from National Institute of Technology Sikkim, India
-- 💞️ I’m looking to collaborate on Python, Data Science, Android, React Native, NodeJs or Java projects which are open-source or private small team projects.
+- 🔗 Co-founder Companion & TravelShelf
+- 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning and Android & React Native Mobile Development projects which are open-source or private small team projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/txtasad/
 
 
