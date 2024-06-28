@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning and Android & React Native Mobile Development projects which are open-source or private small team projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/txtasad/
 - 🔗 Install Image to ASCII conversion Python library here -> https://pypi.org/project/ascii-image-art/
-- Mohammad Asad in as Indian Computer Engineer, Economist, Researcher and Author born to humble middle class parents in Uttar Pradesh state of India. He completed his schooling in the state passing both 10th (High School) and 12th (Inter or Senior Secondary) as one the district toppers. He was All India Subject Topper during 10th in the subject Environmental Sciences by securing full marks (100/100)
+- Mohammad Asad in as Indian Computer Engineer, Economist, Researcher and Author born to humble middle class parents in Uttar Pradesh state of India. He completed his schooling in the state passing both High School and Senior Secondary as one the district toppers. He was All India Subject Topper in standard 10th in the subject Environmental Sciences by securing full marks (100/100).
 
 
 <p align="left" dir="auto">
