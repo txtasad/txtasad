@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @txtasad, Mobile Solutions Architect and Expert Full Stack Mobile Developer.
+- 👋 Hi, I’m @txtasad, Mobile Solutions Architect, Data Scientist and Researcher.
 - 👀 Engineer, Traveler and Digital Healthcare Proponent
 - 🌱 B.Tech from National Institute of Technology Sikkim, India
 - 🔗 Co-founder Companion & TravelShelf. Visit his website https://txtviews.com
