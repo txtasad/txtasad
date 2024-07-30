@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @txtasad, Mobile Solutions Architect, Machine Learning Enthusiast and Researcher.
 - 👀 Engineer, Traveler and Digital Healthcare Proponent
 - 🌱 B.Tech from National Institute of Technology Sikkim, India
+- 🌱 Post Graduation from prestigious Indian Institute of Technology Kanpur (IIT) Kanpur, India.
 - 🔗 Co-founder Companion & TravelShelf and TXTVIEWS. Visit his website https://asad.txtviews.com
 - 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning and Android & React Native Mobile Development projects which are open-source or private small team projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/txtasad/
 - 🔗 Install Image to ASCII conversion Python library here -> https://pypi.org/project/ascii-image-art/
-- Mohammad Asad in as Indian Computer Engineer, Economist, Researcher and Author born to humble middle class parents in Uttar Pradesh state of India. He completed his schooling in the state passing both High School and Senior Secondary as one the district toppers. He was All India Subject Topper in standard 10th in the subject Environmental Sciences by securing full marks (100/100).
+- Mohammad Asad in as Indian Computer Engineer, Economist, Researcher and Author born to humble middle class parents in Uttar Pradesh state of India. He completed his schooling in the state passing both High School and Senior Secondary as one the district toppers. He was All India Subject Topper in standard 10th in the subject Environmental Sciences by securing full marks (100/100). He did his post graduation Indian Institute of Technology Kanpur (IIT Kanpur), India.
 
 
 <p align="left" dir="auto">
