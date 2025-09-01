@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @txtasad, Mobile Solutions Architect, Machine Learning Enthusiast and Researcher.
-- 👀 Engineer, Traveler and Digital Healthcare Proponent
-- 🌱 B.Tech from National Institute of Technology Sikkim, India
+- 💞️ Engineer, Traveler and TOP AI Voice.
 - 🌱 Post Graduation from prestigious Indian Institute of Technology Kanpur (IIT) Kanpur, India.
-- 🔗 Co-founder Companion & TravelShelf.
+- 🔗 Certifications from Wharton & HBS.
 - 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning and Android & React Native Mobile Development projects which are open-source or private small team projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/txtasad/
 - 🔗 Install Image to ASCII conversion Python library here -> https://pypi.org/project/ascii-image-art/
